@@ -1,2 +1,2 @@
 # SimpleCRUD
-This is a simple CRUD React project
+This is a simple React project
